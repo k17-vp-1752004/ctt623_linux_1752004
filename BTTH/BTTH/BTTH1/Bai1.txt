@@ -1,0 +1,9 @@
+Bai 1:
+1/ whoami
+2/ ls -l
+3/ ls -a
+4/ echo $SHELL
+
+
+
+

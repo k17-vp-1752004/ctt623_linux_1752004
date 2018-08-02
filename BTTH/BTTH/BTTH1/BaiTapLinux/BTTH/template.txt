@@ -1,0 +1,4 @@
+#! /bin/sh
+#Ho va ten: My
+#MSSV: 1752004
+#Ten bai tap: BTTH1

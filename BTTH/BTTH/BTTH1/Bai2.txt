@@ -1,0 +1,29 @@
+Bai 2:
+1/ Tao 3 thu muc:
+	mkdir BaiTapLinux
+	mkdir BTTL 
+	mkdir BTTH
+2/ pwd
+3/ Di chuyen thu muc:
+	mv BTTH BaiTapLinux
+	mv BTTL BaiTapLinux
+4/ cd BaiTapLinux/BTTH
+5/ touch template.txt
+6/ 
+	echo "Nhap Ho va ten: "	
+	read hoten
+	echo "MSSV: "	
+	read mssv
+	echo "Ten bai tap: "	
+	read tenbaitap
+7/ 
+	echo "#! /bin/sh" >> template.txt
+	echo "#Ho va ten: $hoten" >> template.txt
+	echo "#MSSV: $mssv" >>template.txt
+	echo "#Ten bai tap: $tenbaitap" >> template.txt
+
+8/ nano template.txt
+9/ mkdir BTTH01
+10/ cp template.txt BTTH01
+11/ mv BTTH01/template.txt BTTH01/1752004_btth01.sh
+12/ chmod u+x BTTH01/1752004_btth01.sh
