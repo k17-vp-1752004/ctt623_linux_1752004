@@ -1,0 +1,10 @@
+1. 
+	touch newfile.txt
+	ls -l newfile.txt
+	-rw-r--r-- 1 khaimy99 khaimy99 0 Thg 8  3 23:06 newfile.txt
+	(user: co quyen read va write, group va others cos quyen read)
+2. 
+	a) chmod u=rw, g=rw, o= newfile.txt
+	b) chmod ugo=r newfile.txt
+	c) chmod ugo=rw newfile.txt
+	d) chmod u=rwx, go=r newfile.txt

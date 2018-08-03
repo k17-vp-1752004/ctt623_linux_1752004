@@ -1,0 +1,47 @@
+Bai 1:
+1.
+	useradd sinhvien01 
+	useradd sinhvien02
+	useradd sinhvien03
+	useradd giaovien01
+	useradd giaovien02
+2.
+	groupadd gr_sinhvien
+	groupadd gr_giaovien
+3.
+	sudo adduser sinhvien01 gr_sinhvien
+	sudo adduser sinhvien02 gr_sinhvien
+	sudo adduser sinhvien03 gr_sinhvien
+4.
+	sudo adduser giaovien01 gr_giaovien
+	sudo adduser giaovien02 gr_giaovien
+5.
+	sudo login giaovien01
+	touch debai.txt
+6. 
+	
+	sudo groupadd gr_debai
+	sudo adduser sinhvien01 gr_debai
+	sudo adduser sinhvien02 gr_debai
+	sudo adduser sinhvien03 gr_debai
+7.
+	mkdir sinhvien01
+	mkdir sinhvien02
+	mkdir sinhvien03
+	mkdir DeBai
+
+8.
+	chgrp gr_debai DeBai
+9. 
+	chmod ug=rwx, o= DeBai
+10. 
+	cp debai.txt DeBai
+11.
+	sudo login sinhvien01
+	touch bainop.txt
+12. 
+	chmod u+x bainop.txt
+	chown giaovien02 bainop.txt
+13.
+	chown sinhvien01 bainop.txt
+	
