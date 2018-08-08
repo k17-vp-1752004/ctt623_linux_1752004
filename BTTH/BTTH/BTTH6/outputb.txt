@@ -1,5 +1,3 @@
-
-
-
-vong khai mydai hoc KHTN
-vong khai my dai hoc KHTN 
+So tu co trong file la 9 
+Cac tu co trong file la: vong, khai, my, dai, hoc, KHTN, vong, vong, vong 
+Tu vong xuat hien 4 lan
