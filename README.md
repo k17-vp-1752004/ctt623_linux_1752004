@@ -7,19 +7,29 @@ Bài tập thực hành môn Linux
 * Môn học: Linux
 
 ## Tuần 01
-
+* Hoàn thành: 100%
+* Chưa hoàn thành:
+* Câu hỏi:
 ## Tuần 02
-
+* Hoàn thành: 100%
+* Chưa hoàn thành:
+* Câu hỏi:
 ## Tuần 03
-
+* Hoàn thành: 100%
+* Chưa hoàn thành:
+* Câu hỏi:
 ## Tuần 04
-
-## Tuần 05
-
-## Tuần 06
-
+* Hoàn thành: 100%
+* Chưa hoàn thành:
+* Câu hỏi:
+## Tuần 05 + 06:
+* Hoàn thành: 100%
+* Chưa hoàn thành:
+* Câu hỏi:
 ## Tuần 07
-
+* Hoàn thành: 100%
+* Chưa hoàn thành:
+* Câu hỏi:
 ## Tuần 08
 
 ## Tuần 09
