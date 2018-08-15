@@ -31,7 +31,9 @@ Bài tập thực hành môn Linux
 * Chưa hoàn thành:
 * Câu hỏi:
 ## Tuần 08
-
+* Hoàn thành: 100%
+* Chưa hoàn thành:
+* Câu hỏi:
 ## Tuần 09
 
 
