@@ -1,5 +1,5 @@
 # ctt623_linux_1752004
-Bài tập thực hành môn Linux 
+Bài tập thực hành môn Linux (Commandline and Bashscript)
 
 * MSSV: 1752004
 * Họ tên: Vòng Khải My
